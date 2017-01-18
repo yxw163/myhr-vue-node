@@ -4,7 +4,7 @@
   "description": "A sample Node.js app using Express 4",
   "main": "server.js",
   "scripts": {
-    "start": "node build/dev-server.js",
+    "start": "node ./myvue-hf/build/dev-server.js",
     "dev": "./node_modules/.bin/nodemon server.js"
   },
   "keywords": [
