@@ -1,5 +1,5 @@
-var semver = require('../node_modules/semver')
-var chalk = require('../node_modules/chalk')
+var semver = require('./myvue-hf/node_modules/semver')
+var chalk = require('./myvue-hf/node_modules/chalk')
 var packageConfig = require('../package.json')
 var exec = function (cmd) {
   return require('child_process')
