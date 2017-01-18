@@ -1,0 +1,4 @@
+//  get messageList
+export const GET_MESSAGE = 'GET_MESSAGE'
+export const SET_CURRENT_MESSAGE = 'SET_CURRENT_MESSAGE'
+export const GET_CURRENT_MESSAGE = 'GET_CURRENT_MESSAGE'
